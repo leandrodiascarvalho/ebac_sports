@@ -45,4 +45,3 @@ const ProdutoComponent = ({ produto }: Props) => {
 }
 
 export default ProdutoComponent
-

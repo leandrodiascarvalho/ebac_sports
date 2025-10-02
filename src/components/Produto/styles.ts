@@ -54,4 +54,3 @@ export const BtnComprar = styled.button`
     background-color: #12b891;
   }
 `
-
